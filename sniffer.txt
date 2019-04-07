@@ -1,0 +1,4 @@
+EMAIL: w@email.com - PASSWORD: w123
+EMAIL: test@email.com - PASSWORD: ass
+EMAIL: nicolanaw@gmail.com - PASSWORD: sipek
+EMAIL: hellp@gmail.com - PASSWORD: ksjsjkss
